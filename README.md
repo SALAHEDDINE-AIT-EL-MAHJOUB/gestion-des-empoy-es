@@ -112,7 +112,7 @@ Browse available training programs, register for new trainings, and view complet
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! 
 
 
 ---
