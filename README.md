@@ -108,17 +108,12 @@ Browse available training programs, register for new trainings, and view complet
 </p>
 </details>
 
-## 📷 Screenshots
 
-*Coming soon*
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
